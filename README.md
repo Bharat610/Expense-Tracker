@@ -4,4 +4,4 @@ This App helps you manage your expenses and income in one place, you just need t
 
 The data is stored in your local browser so you don't need to worry about loosing it, just don't clear youy cache :)
 
-This project is build using HTMl, CSS JavaScript and ReactJs.
+This project is build using HTML, CSS JavaScript and ReactJs.
